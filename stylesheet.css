@@ -1,0 +1,36 @@
+.title {
+  color: blue;
+  background-color: yellow;
+  width: 400px;
+  height: 50px;
+  padding: 20px 30px;
+
+  font-family:sans-serif;
+}
+.header-logo{
+  background-color: blue;
+  color:white;
+
+  height: 30px;
+  padding:  20px 40px;
+}
+h2{
+  color:blue;
+  background-color: yellow;
+  width: 420px;
+  padding: 10px 20px;
+}
+.section-title{
+  border-bottom: 2px solid black
+}
+.footer-logo{
+  padding: 30px 40px;
+}
+textarea{
+  width:400px;
+ margin-top:10px;
+ margin-bottom:30px;
+ padding:20px;
+ font-size:18px;
+ border: 1px solid #dee7ec;
+}
